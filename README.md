@@ -2,8 +2,10 @@
 
 
 ### Ex. No. :8 CONFIGURING ANALOG PORT TO INTEFACE AN ANALOG SENSOR AND READ THE VALUES USING SERIAL PORT
-## Date: 
+## Date: 21-11-2025
 ###  
+## Name:DURAIARASAN M
+## Reg no:212224230071
 
 ## Aim: 
 To configure ADC channel for interfacing an analog sensor and read the values on the com port 
@@ -231,20 +233,15 @@ void assert_failed(uint8_t *file, uint32_t line)
 {
 }
 #endif
-```
+ ```
+
  
+## Output  :
 
-## Output screenshots of proteus
- <img width="728" height="833" alt="image" src="https://github.com/user-attachments/assets/92d491bc-3701-42d1-a555-81e7be37ef60" />
-<img width="688" height="832" alt="image" src="https://github.com/user-attachments/assets/0a1d6344-036b-43b6-9479-5daccd392691" />
+![WhatsApp Image 2025-11-21 at 08 33 16_1f6c12a3](https://github.com/user-attachments/assets/aa072cb8-c121-43a8-9e80-6442bcc63565)
 
-## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE):
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/c8c959fa-e453-48dc-a82f-483ff5c4f304" />
 
-<img width="1039" height="727" alt="image" src="https://github.com/user-attachments/assets/426af65b-a060-4e5e-ba18-a439ef41c6ae" />
-
-## Result
+## Result :
 Interfacing a push button and interrupt genrateion is simulated using proteus
-
-
-
 ****
